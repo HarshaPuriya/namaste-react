@@ -1,3 +1,5 @@
+import React from "react"
+import ReactDOM from "react-dom/client"
 //using react to create element
 //{} - inside it we give attributes to our tag
 //heading is react element. The below line create object
